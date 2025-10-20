@@ -4,12 +4,6 @@ This repository contains two interconnected modules — **DSA Agent** and **Mail
 
 ---
 
-##  Project Structure
--->mailer
--->dsa_agent
-
----
-
 ## 🚀 Features
 
 ### 🧠 DSA Agent
