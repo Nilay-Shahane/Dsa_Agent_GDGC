@@ -2,23 +2,22 @@
 
 This repository contains two interconnected modules — **DSA Agent** and **Mailer** — designed for automating email communication and integrating AI-powered code review or learning features.
 
----
 
-## 🚀 Features
+##  Features
 
-### 🧠 DSA Agent
+###  DSA Agent
 - Provides **intelligent assistance** for DSA (Data Structures & Algorithms) problems.
 - Can **analyze**, **review**, and **suggest improvements** for submitted solutions.
 - Easily extendable to support code review automation or chatbot integration.
 
-### 📧 Mailer
+###  Mailer
 - Built using **Node.js** and **Nodemailer**.
 - Sends automatic emails (notifications, updates, etc.) to users.
 - Configurable through environment variables for SMTP credentials.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |------------|-------------|
@@ -43,9 +42,9 @@ cd ../dsa_agent
 pip install -r requirements.txt
 ```
 
-For mailer/.env
+-For mailer/.env
   PASSWORD = xxxx xxxx xxxx xxxx
-For dsa_agent/.env
+-For dsa_agent/.env
   GOOGLE_API_KEY=xxx
 
 
@@ -55,7 +54,7 @@ For Contributing
 -Commit changes
 -Push and open a Pull Request
 
-
+---
 ## Author
 
 Nilay Shahane
