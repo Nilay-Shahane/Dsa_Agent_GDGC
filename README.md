@@ -42,13 +42,13 @@ cd ../dsa_agent
 pip install -r requirements.txt
 ```
 
--For mailer/.env
+## For mailer/.env
   PASSWORD = xxxx xxxx xxxx xxxx
--For dsa_agent/.env
+## For dsa_agent/.env
   GOOGLE_API_KEY=xxx
 
 
-For Contributing
+### For Contributing
 -Fork the repo
 -Create a new branch (feature/new-feature)
 -Commit changes
