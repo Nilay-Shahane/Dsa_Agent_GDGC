@@ -48,11 +48,11 @@ pip install -r requirements.txt
   GOOGLE_API_KEY=xxx
 
 
-### For Contributing
-# Fork the repo
-# Create a new branch (feature/new-feature)
-# Commit changes
-# Push and open a Pull Request
+## For Contributing
+#### Fork the repo
+#### Create a new branch (feature/new-feature)
+#### Commit changes
+#### Push and open a Pull Request
 
 ---
 ## Author
