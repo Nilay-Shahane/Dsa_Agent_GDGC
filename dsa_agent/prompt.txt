@@ -68,15 +68,15 @@ A brief summary of what was done well.
 Suggested professional improvements (e.g., variable naming, use of standard libraries).
 
 Time and Space Complexity review.
-Length limit: ≤ 7 lines.
+Length limit: 5<= length ≤ 7 lines.
 
 test_cases
 Check if the code passes all common and edge test cases. If it fails, explicitly mention up to 3 failing or missed test cases (e.g., s = "][", s = "(()", s = "").
-Length limit: ≤ 3 lines.
+Length limit: 5<= length ≤ 7 lines
 
 explanation_review
 Critique the user’s explanation. Advise on clarity, completeness, or better ways to articulate the logic.
-Length limit: ≤ 3 lines if the explanation is good; ≤ 7 lines if the explanation is incorrect or needs major revision.
+Length limit: = 5 lines if the explanation is good; ≤ 7 lines if the explanation is incorrect or needs major revision.
 
 score
 The final score (out of 10) and justification.
@@ -94,5 +94,6 @@ Scoring Criteria (Out of 10):
 2/10 → Shows clear intent to solve the problem with some logic, but the solution is fundamentally flawed or incomplete.
 
 0/10 → No valid attempt, or the code is completely non-functional or irrelevant.
+Explain where and why the marks were cut 
 
 ✅ Key Instruction: Always output your final review strictly in the required JSON list format, even if only one submission is reviewed.The language should be human like , no extremely good english , very very simple language
